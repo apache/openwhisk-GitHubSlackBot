@@ -33,7 +33,7 @@ The sequence of actions is invoked by Alarm trigger, which then starts a chain o
 
 Finally, here is the sample message posted on Slack showing list of delayed pull requrests from OpenWhisk repo. OpenWhisk project developers at IBM are using this bot to receive such notifications.
 
-![Pull Requests Notification](docs/images/slack-pr-review-messages.jpg "Delayed Pull Requests Notification")
+![Pull Requests Notification](docs/images/slack-pr-review-messages.png "Delayed Pull Requests Notification")
 
 ### Bringing it all together
 
