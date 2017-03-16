@@ -4,7 +4,7 @@ OpenWhisk is an Apache incubator project that provides an open source serverless
 
 OpenWhisk project developers are using the actual running OpenWhisk code itself to improve its own Continuous Development and Integration (CD/CI) processes. This blog post introduces a bot [openwhisk-GitHubSlackBot](https://github.com/openwhisk/openwhisk-GitHubSlackBot) which is designed to post updates to Slack when a GitHub Pull Request is ready for merge or a list of pull requests are under review for certain days and haven’t merged. Here is a sample of notification received on Slack:
 
-![Pull Requests Notification](https://github.com/openwhisk/openwhisk-GitHubSlackBot/blob/master/docs/images/slack-pr-review-messages.jpg "Delayed Pull Requests Notification")
+![Pull Requests Notification](https://github.com/openwhisk/openwhisk-GitHubSlackBot/blob/master/docs/images/slack-pr-review-messages.png "Delayed Pull Requests Notification")
 
 ## Architecture
 
